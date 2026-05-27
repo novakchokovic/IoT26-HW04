@@ -1,4 +1,4 @@
-# IoT26-HW04 — Raspberry Pi Web Server using Flask to Control GPIOs
+# Raspberry Pi Web Server using Flask to Control GPIOs
 
 > 작업 일시: 2026년 5월 24일 14:00 ~ 21:00
 
