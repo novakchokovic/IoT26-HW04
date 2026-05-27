@@ -18,7 +18,7 @@ sudo apt update
 sudo apt upgrade -y
 ```
 
-![OS 업데이트 하는 모습](KakaoTalk_20260527_045829194.jpg)
+![OS 업데이트 하는 모습](images/KakaoTalk_20260527_045829194.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ source venv/bin/activate
 pip install flask
 ```
 
-![가상환경 생성 후 Flask 설치하는 모습](KakaoTalk_20260527_052112334.jpg)
+![가상환경 생성 후 Flask 설치하는 모습](images/KakaoTalk_20260527_052112334.jpg)
 
 ---
 
@@ -89,7 +89,7 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
 ```
 
-![나노 편집기에서 코드를 저장한 모습](KakaoTalk_20260527_060231152.jpg)
+![나노 편집기에서 코드를 저장한 모습](images/KakaoTalk_20260527_060231152.jpg)
 
 ---
 
@@ -140,7 +140,7 @@ nano main.html
 </html>
 ```
 
-![나노 편집기에서 코드를 저장한 모습](KakaoTalk_20260527_060244962.jpg)
+![나노 편집기에서 코드를 저장한 모습](images/KakaoTalk_20260527_060244962.jpg)
 
 ---
 
@@ -155,7 +155,7 @@ python app.py
 - `hostname -I` 명령어로 IP 주소 확인: `172.30.1.16`
 - 브라우저에서 접속: `http://172.30.1.16:5000`
 
-![브라우저 접속 화면](KakaoTalk_20260527_060314789.jpg)
+![브라우저 접속 화면](images/KakaoTalk_20260527_060314789.jpg)
 
 ---
 
@@ -165,4 +165,4 @@ python app.py
 
 > 📹 시연 영상
 
-![브라우저로 LED 키고 끄는 모습](KakaoTalk_20260527_061336861.gif)
+![브라우저로 LED 키고 끄는 모습](images/KakaoTalk_20260527_061336861.gif)
